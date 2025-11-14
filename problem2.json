@@ -87,5 +87,173 @@
     "tags": ["충분조건, 필요조건, 필요충분조건"],
     "question": "두 조건 $p:x<a$, $q:-4<x<3$에 대하여 $p$가 $q$이기 위한 필요조건이 되도록 하는 정수 $a$의 최솟값은?",
     "answer": "3"
+  },
+  {
+    "id": 901,
+    "difficulty": 3,
+    "category": "집합과 명제",
+    "tags": ["명제의 역과 대우"],
+    "question": "명제 ‘$x ^ { 2 } -5x-14 \neq 0$이면 $x \neq n$이다.’가 참이 되도록 하는 자연수 $n$의 값은?",
+    "answer": "7"
+  },
+  {
+    "id": 902,
+    "difficulty": 4,
+    "category": "집합과 명제",
+    "tags": ["명제의 역과 대우"],
+    "question": "$x$에 대한 두 조건 $p:x<k$ $q:x ^ { 2 } -4x-5<0$에 대하여 명제 $\\sim p~ \rightarrow ~ \\sim q$가 참이 되도록 하는 실수 $k$의 최솟값을 구하시오.",
+    "answer": "5"
+  },
+  {
+    "id": 903,
+    "difficulty": 4,
+    "category": "집합과 명제",
+    "tags": ["명제의 참, 거짓"],
+    "question": "전체집합 $U= \\left \\{ x \u000bert x 는~10~ 이하의~ 자연수 \right \\}$의 부분집합 $X$에 대하여 명제 ‘집합 $X$의 어떤 원소는 10의 양의 약수이다.’가 참이 되도록 하는 집합 $X$의 개수를 구하시오.",
+    "answer": "960"
+  },
+  {
+    "id": 904,
+    "difficulty": 3,
+    "category": "집합과 명제",
+    "tags": ["절대부등식의 활용"],
+    "question": "$a \neq 0$인 실수 $a$에 대하여 $\\left( a + \\cfrac{1}{a} \right) \\left( a + \\cfrac{4}{a} \right)$의 최솟값은?",
+    "answer": "9"
+  },
+  {
+    "id": 905,
+    "difficulty": 4,
+    "category": "집합과 명제",
+    "tags": ["절대부등식의 활용"],
+    "question": "$x>0$, $y>0$일 때, $(3x+y) \\left ( \\cfrac{ 3 } { x } + \\cfrac{ 4 } { y } \right )$의 최솟값은?",
+    "answer": "25"
+  },
+  {
+    "id": 906,
+    "difficulty": 3,
+    "category": "집합과 명제",
+    "tags": ["충분조건, 필요조건, 필요충분조건"],
+    "question": "두 조건 $p:x>a,~q:-3<x<4$에 대하여 p가 q이기 위한 필요조건이 되도록 하는 실수 a의 최댓값을 구하시오.",
+    "answer": "-3"
+  },
+  {
+    "id": 907,
+    "difficulty": 2,
+    "category": "함수와 그래프",
+    "tags": ["서로 같은 함수"],
+    "question": "정의역이 집합 $X= \\left \\{ -1,~a \right \\}$인 두 함수 $f(x)=3x \u000bert x \u000bert ,~ g(x)=bx^2 -8$에 대하여 $f=g$일 때, $a+b$의 값은? (단, $a,b$는 상수이고, $a \neq -1$이다.)",
+    "answer": "-1"
+  },
+  {
+    "id": 908,
+    "difficulty": 4,
+    "category": "함수와 그래프",
+    "tags": ["서로 같은 함수"],
+    "question": "집합 X={-2, 2}를 정의역으로 하는 두 함수 $f(x)=3\u000bert x+1\u000bert +a$, g$(x)=bx+4$에 대하여 $f=$g일 때, $f(a)+b$의 값은? (단, $a,b$는 상수이다.)",
+    "answer": "2.5"
+  },
+  {
+    "id": 909,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["역함수"],
+    "question": "실수 전체의 집합에서 정의된 함수 $f$에 대하여  $f(2x-1)= \\cfrac{ x+a } { 3 }$ , $f(3)= \\cfrac{ 4 } { 3 } ,~f ^ { -1 } (b)=7$일 때, $a+b$의 값은? (단, $a,b$는 상수이다.)",
+    "answer": "4"
+  },
+  {
+    "id": 910,
+    "difficulty": 4,
+    "category": "함수와 그래프",
+    "tags": ["역함수의 그래프"],
+    "question": "함수 $f(x)= \\cfrac{ 1 } { 2 } x ^ { 2 } -3x+a\\,\\,(x \\geq 3)$의 그래프와 그 역함수 $y=f ^ { -1 } (x)$의 그래프가 서로 다른 2개의 점에서 만나도록 하는 모든 실수 $a$의 값의 범위를 구하시오.",
+    "answer": "$\\mathbf{\frac{15}{2} \\leq a < 8}$ "
+  },
+  {
+    "id": 911,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["역함수의 성질"],
+    "question": "역함수가 존재하는 두 함수 $f,g$에 대하여 $(g \\circ f ^ { -1 } )(x)=4x-3$일 때, $(f \\circ g ^ { -1 } )(7)$의 값은?",
+    "answer": "2.5"
+  },
+  {
+    "id": 912,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["일대일 함수와 일대일 대응"],
+    "question": "집합 X={$x \u000bert 1 \\leq x \\leq 3$}에서 집합 Y=$\\left \\{ y \u000bert - \\cfrac{ 1 } { 2 } \\leq y \\leq \\cfrac{ 7 } { 2 } \right \\}$로의 함수 $f(x)=ax ^ { 2 } \\,+b$가 일대일대응일 때, 두 상수 $a,b$의 곱 $ab$의 최솟값을 구하시오. ",
+    "answer": "-2"
+  },
+  {
+    "id": 913,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["일대일 함수와 일대일 대응"],
+    "question": "두 집합 $X= \\left \\{ -1,0,a \right \\}$, $Y= \\left \\{ 3,4,7 \right \\}$에 대하여 $X$에서 $Y$로의 함수 $f(x)=x ^ { 2 } +b$가 일대일대응일 때, $a+b$의 최댓값은? (단, $a,b$는 상수이고, $a \neq -1,~a \neq 0$이다.)",
+    "answer": "5"
+  },
+  {
+    "id": 914,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["정의역, 공역, 치역"],
+    "question": "두 집합 $X= \\left \\{ x \u000bert 1 \\leq x \\leq 3 \right \\}$, $Y= \\left \\{ y \u000bert 1\\leq y \\leq 7 \right \\}$에 대하여 $f(x)=ax+b\\,$가 $X$에서 $Y$로의 함수가 되도록 하는 두 자연수 $a$, $b$의 모든 순서쌍 ($a$, $b$)의 개수는?",
+    "answer": "5"
+  },
+  {
+    "id": 915,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["합성함수"],
+    "question": "두 함수 $f(x)=-3x+a,g(x)=bx+1$에 대하여 $(f \\circ g)(1)=-4,(g \\circ f)(2)=-1$일 때, $a+b$의 값은? (단, $a,b$는 상수이고, $a \neq 0$이다.)",
+    "answer": "7"
+  },
+  {
+    "id": 916,
+    "difficulty": 2,
+    "category": "함수와 그래프",
+    "tags": ["무리식"],
+    "question": "$\\cfrac{ \\sqrt { x+3 } + \\sqrt { 3-x } } { x ^ { 2 } +x-2 }$ 의 값이 실수가 되도록 하는 정수 $x$의 개수는?",
+    "answer": "5"
+  },
+  {
+    "id": 917,
+    "difficulty": 4,
+    "category": "함수와 그래프",
+    "tags": ["무리식"],
+    "question": "무리식 $\\sqrt { 2x ^ { 2 } +3x+a }$의 값이 항상 실수가 되도록 하는 정수 $a$의 최솟값은?",
+    "answer": "2"
+  },
+  {
+    "id": 918,
+    "difficulty": 4,
+    "category": "함수와 그래프",
+    "tags": ["무리함수의 그래프"],
+    "question": "무리함수 $y= \\sqrt { 3x+1 } -2$의 그래프를 $y$축의 방향으로 -2만큼 평행이동한 후 원점에 대하여 대칭 이동한 그래프의 식을 $y=f(x)$라 하자. 함수 $y=f(x)$의 그래프를 $x$축의 방향으로 $p$만큼 평행이동한 그래프가 원점을 지날 때, 상수 $p$의 값은?",
+    "answer": "5"
+  },
+  {
+    "id": 919,
+    "difficulty": 2,
+    "category": "함수와 그래프",
+    "tags": ["유리함수"],
+    "question": "함수 $y= \\cfrac{ 2x-7 } { x-2 }$의 그래프와 직선 $y=3x+k$가 만나지 않도록 하는 정수 $k$의 개수는?",
+    "answer": "11"
+  },
+  {
+    "id": 920,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["유리함수의 그래프"],
+    "question": "유리함수 $y= \\cfrac{ ax+4 } { x-3 }$의 그래프가 직선 $y=x+1$에 대하여 대칭일 때, 상수 $a$의 값은?",
+    "answer": "4"
+  },
+  {
+    "id": 921,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["유리함수의 그래프"],
+    "question": "함수 $y= \\cfrac{ 5 } { x }$의 그래프를 $x$축의 방향으로 $a$만큼, $y$축의 방향으로 2만큼 평행이동하였더니 함수 $y= \\cfrac{ bx+c } { x-3 }$의 그래프와 일치하였을 때, $a$+$b$+$c$의 값은? (단, $a,~b,~c$는 상수이다.)",
+    "answer": "4"
   }
 ]
