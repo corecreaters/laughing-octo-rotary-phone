@@ -1,0 +1,93 @@
+[
+  {
+    "id": 301,
+    "difficulty": 2,
+    "category": "함수와 그래프",
+    "tags": ["역함수의 그래프"],
+    "question": "함수 $f(x)=3x+4$의 그래프와 그 역함수 $y=f ^ { -1 } (x)$의 그래프가 점 ($a,\\,b$)에서 만날 때, $a+b$의 값을 구하시오.",
+    "answer": "-4"
+  },
+  {
+    "id": 302,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["역함수"],
+    "question": "두 집합 $X= \\left \\{ { x \\vert x\\geq a } \\right \\}$, $Y= \\left \\{ { y \\vert y\\geq f(a) } \\right \\}$에 대하여 $X$에서 $Y$로의 함수 $f(x)=x ^ { 2 } -4x+7$의 역함수가 존재하도록 하는 실수 $a$의 최솟값은?",
+    "answer": "2"
+  },
+  {
+    "id": 605,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["역함수"],
+    "question": "함수 $f(x)= \\cfrac{ 2x } { x+1 }$에 대하여 $f ^ { -1 } (4)$의 값은?",
+    "answer": "-2"
+  },
+{
+    "id": 701,
+    "difficulty": 4,
+    "category": "함수와 그래프",
+    "tags": ["무리함수"],
+    "question": "두 상수 $a,b$에 대하여 정의역이 {$x \bert -7 \\leq x \\leq 1$}인 함수 $y= \\sqrt { -a-x } +b$의 치역은 {$y \bert 0 \\leq y \\leq 2$}일 때, $a+b$의 값을 구하시오.",
+    "choices": null,
+    "answer": "-3"
+  },
+  {
+    "id": 702,
+    "difficulty": 4,
+    "category": "함수와 그래프",
+    "tags": ["유리식의 연산"],
+    "question": "$\\cfrac{ 2 } { x ^ { 2 } +2x } + \\cfrac{ 3 } { x ^ { 2 } +7x+10 } + \\cfrac{ 4 } { x ^ { 2 } +14x+45 }$의 값이 $\\cfrac{ 1 } { n }$ ($n$은 자연수)의 꼴이 되도록 하는 자연수 $x$의 최솟값을 구하시오.",
+    "answer": "3"
+  },
+  {
+    "id": 703,
+    "difficulty": 2,
+    "category": "함수와 그래프",
+    "tags": ["무리함수의 그래프"],
+    "question": "$-5 \\leq x \\leq -1\\,$에서 함수 $f(x)= \\sqrt { -ax+1 } \\,$($a>0$)의 최댓값이 $4\\,$가 되도록 하는 상수 $a\\,$의 값을 구하시오.",
+    "answer": "3"
+  },
+  {
+    "id": 704,
+    "difficulty": 3,
+    "category": "함수와 그래프",
+    "tags": ["무리함수의 합성함수와 역함수"],
+    "question": "함수 $f ( x ) = \\sqrt{x - 2} + 2 \\,$에 대하여 $f \\, {}^{- 1} ( 7 ) \\,$의 값을 구하시오.",
+    "answer": "27"
+  },
+  {
+    "id": 705,
+    "difficulty": 2,
+    "category": "함수와 그래프",
+    "tags": ["유리함수의 그래프"],
+    "question": "함수 $y= \\cfrac{ b } { x-a } \\,$의 그래프가 점 $\\left ( 2,\\,\\,4 \right ) \\,$를 지나고 한 점근선의 방정식이 $x=4\\,$일 때, $a-b\\,$의 값은? (단, $a$, $b\\,$는 상수이다.)",
+    "answer": "12"
+  },
+  {
+    "id": 706,
+    "difficulty": 3,
+    "category": "집합과 명제",
+    "tags": ["명제의 역과 대우"],
+    "question": "두 실수 $a , \\, \\, \\, b$에 대하여 명제 ‘$a + b \\lt 4$이면 $a \\lt k$ 또는 $b \\lt 3$이다.’가 참일 때, 상수 $k$의 최솟값은?",
+    "answer": "1"
+  },
+  {
+    "id": 707,
+    "difficulty": 3,
+    "category": "집합과 명제",
+    "tags": ["절대부등식의 활용"],
+    "question": "0이 아닌 두 실수 $a$, $b$에 대하여 $x$절편과 $y$절편이 모두 양수인 직선 $\\cfrac{ x } { a } + \\cfrac{ y } { b } =1$이 점 (2, 3)을 지날 때, $ab$의 최솟값은?",
+    "choices": null,
+    "answer": "24"
+  },
+  {
+    "id": 708,
+    "difficulty": 3,
+    "category": "집합과 명제",
+    "tags": ["충분조건, 필요조건, 필요충분조건"],
+    "question": "두 조건 $p:x<a$, $q:-4<x<3$에 대하여 $p$가 $q$이기 위한 필요조건이 되도록 하는 정수 $a$의 최솟값은?",
+    "choices": null,
+    "answer": "3"
+  }
+]
