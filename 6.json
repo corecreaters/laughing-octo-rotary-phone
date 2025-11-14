@@ -73,50 +73,5 @@
       "",
       ""
     ]
-  },
-  {
-    "id": 602,
-    "difficulty": ,
-    "category": "함수와 그래프",
-    "tags": ["역함수의 그래프"],
-    "question_format": "short_answer",
-    "question": ,
-    "choices": null,
-    "answer": "",
-    "explanation": "",
-    "hints": [
-      "",
-      ""
-    ]
-  },
-  {
-    "id": 602,
-    "difficulty": ,
-    "category": "함수와 그래프",
-    "tags": ["역함수의 그래프"],
-    "question_format": "short_answer",
-    "question": ,
-    "choices": null,
-    "answer": "",
-    "explanation": "",
-    "hints": [
-      "",
-      ""
-    ]
-  },
-  {
-    "id": 602,
-    "difficulty": ,
-    "category": "함수와 그래프",
-    "tags": ["역함수의 그래프"],
-    "question_format": "short_answer",
-    "question": ,
-    "choices": null,
-    "answer": "",
-    "explanation": "",
-    "hints": [
-      "",
-      ""
-    ]
   }
 ]
