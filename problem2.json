@@ -20,7 +20,7 @@
     "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["역함수"],
-    "question": "함수 $f(x)= \\cfrac{ 2x } { x+1 }$에 대하여 $f ^ { -1 } (4)$의 값은?",
+    "question": "함수 $f(x)= \\frac{ 2x } { x+1 }$에 대하여 $f ^ { -1 } (4)$의 값은?",
     "answer": "-2"
   },
 {
@@ -37,7 +37,7 @@
     "difficulty": 4,
     "category": "함수와 그래프",
     "tags": ["유리식의 연산"],
-    "question": "$\\cfrac{ 2 } { x ^ { 2 } +2x } + \\cfrac{ 3 } { x ^ { 2 } +7x+10 } + \\cfrac{ 4 } { x ^ { 2 } +14x+45 }$의 값이 $\\cfrac{ 1 } { n }$ ($n$은 자연수)의 꼴이 되도록 하는 자연수 $x$의 최솟값을 구하시오.",
+    "question": "$\\frac{ 2 } { x ^ { 2 } +2x } + \\frac{ 3 } { x ^ { 2 } +7x+10 } + \\frac{ 4 } { x ^ { 2 } +14x+45 }$의 값이 $\\frac{ 1 } { n }$ ($n$은 자연수)의 꼴이 되도록 하는 자연수 $x$의 최솟값을 구하시오.",
     "answer": "3"
   },
   {
@@ -61,7 +61,7 @@
     "difficulty": 2,
     "category": "함수와 그래프",
     "tags": ["유리함수의 그래프"],
-    "question": "함수 $y= \\cfrac{ b } { x-a } \\,$의 그래프가 점 $\\left ( 2,\\,\\,4 \right ) \\,$를 지나고 한 점근선의 방정식이 $x=4\\,$일 때, $a-b\\,$의 값은? (단, $a$, $b\\,$는 상수이다.)",
+    "question": "함수 $y= \\frac{ b } { x-a } \\,$의 그래프가 점 $\\left ( 2,\\,\\,4 \right ) \\,$를 지나고 한 점근선의 방정식이 $x=4\\,$일 때, $a-b\\,$의 값은? (단, $a$, $b\\,$는 상수이다.)",
     "answer": "12"
   },
   {
@@ -77,7 +77,7 @@
     "difficulty": 3,
     "category": "집합과 명제",
     "tags": ["절대부등식의 활용"],
-    "question": "0이 아닌 두 실수 $a$, $b$에 대하여 $x$절편과 $y$절편이 모두 양수인 직선 $\\cfrac{ x } { a } + \\cfrac{ y } { b } =1$이 점 (2, 3)을 지날 때, $ab$의 최솟값은?",
+    "question": "0이 아닌 두 실수 $a$, $b$에 대하여 $x$절편과 $y$절편이 모두 양수인 직선 $\\frac{ x } { a } + \\frac{ y } { b } =1$이 점 (2, 3)을 지날 때, $ab$의 최솟값은?",
     "answer": "24"
   },
   {
@@ -117,7 +117,7 @@
     "difficulty": 3,
     "category": "집합과 명제",
     "tags": ["절대부등식의 활용"],
-    "question": "$a \neq 0$인 실수 $a$에 대하여 $\\left( a + \\cfrac{1}{a} \right) \\left( a + \\cfrac{4}{a} \right)$의 최솟값은?",
+    "question": "$a \neq 0$인 실수 $a$에 대하여 $\\left( a + \\frac{1}{a} \right) \\left( a + \\frac{4}{a} \right)$의 최솟값은?",
     "answer": "9"
   },
   {
@@ -125,7 +125,7 @@
     "difficulty": 4,
     "category": "집합과 명제",
     "tags": ["절대부등식의 활용"],
-    "question": "$x>0$, $y>0$일 때, $(3x+y) \\left ( \\cfrac{ 3 } { x } + \\cfrac{ 4 } { y } \right )$의 최솟값은?",
+    "question": "$x>0$, $y>0$일 때, $(3x+y) \\left ( \\frac{ 3 } { x } + \\frac{ 4 } { y } \right )$의 최솟값은?",
     "answer": "25"
   },
   {
@@ -157,7 +157,7 @@
     "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["역함수"],
-    "question": "실수 전체의 집합에서 정의된 함수 $f$에 대하여  $f(2x-1)= \\cfrac{ x+a } { 3 }$ , $f(3)= \\cfrac{ 4 } { 3 } ,~f ^ { -1 } (b)=7$일 때, $a+b$의 값은? (단, $a,b$는 상수이다.)",
+    "question": "실수 전체의 집합에서 정의된 함수 $f$에 대하여  $f(2x-1)= \\frac{ x+a } { 3 }$ , $f(3)= \\frac{ 4 } { 3 } ,~f ^ { -1 } (b)=7$일 때, $a+b$의 값은? (단, $a,b$는 상수이다.)",
     "answer": "4"
   },
   {
@@ -165,7 +165,7 @@
     "difficulty": 4,
     "category": "함수와 그래프",
     "tags": ["역함수의 그래프"],
-    "question": "함수 $f(x)= \\cfrac{ 1 } { 2 } x ^ { 2 } -3x+a\\,\\,(x \\geq 3)$의 그래프와 그 역함수 $y=f ^ { -1 } (x)$의 그래프가 서로 다른 2개의 점에서 만나도록 하는 모든 실수 $a$의 값의 범위를 구하시오.",
+    "question": "함수 $f(x)= \\frac{ 1 } { 2 } x ^ { 2 } -3x+a\\,\\,(x \\geq 3)$의 그래프와 그 역함수 $y=f ^ { -1 } (x)$의 그래프가 서로 다른 2개의 점에서 만나도록 하는 모든 실수 $a$의 값의 범위를 구하시오.",
     "answer": "$\\mathbf{\frac{15}{2} \\leq a < 8}$ "
   },
   {
@@ -181,7 +181,7 @@
     "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["일대일 함수와 일대일 대응"],
-    "question": "집합 X={$x \u000bert 1 \\leq x \\leq 3$}에서 집합 Y=$\\left \\{ y \u000bert - \\cfrac{ 1 } { 2 } \\leq y \\leq \\cfrac{ 7 } { 2 } \right \\}$로의 함수 $f(x)=ax ^ { 2 } \\,+b$가 일대일대응일 때, 두 상수 $a,b$의 곱 $ab$의 최솟값을 구하시오. ",
+    "question": "집합 X={$x \u000bert 1 \\leq x \\leq 3$}에서 집합 Y=$\\left \\{ y \u000bert - \\frac{ 1 } { 2 } \\leq y \\leq \\frac{ 7 } { 2 } \right \\}$로의 함수 $f(x)=ax ^ { 2 } \\,+b$가 일대일대응일 때, 두 상수 $a,b$의 곱 $ab$의 최솟값을 구하시오. ",
     "answer": "-2"
   },
   {
@@ -213,7 +213,7 @@
     "difficulty": 2,
     "category": "함수와 그래프",
     "tags": ["무리식"],
-    "question": "$\\cfrac{ \\sqrt { x+3 } + \\sqrt { 3-x } } { x ^ { 2 } +x-2 }$ 의 값이 실수가 되도록 하는 정수 $x$의 개수는?",
+    "question": "$\\frac{ \\sqrt { x+3 } + \\sqrt { 3-x } } { x ^ { 2 } +x-2 }$ 의 값이 실수가 되도록 하는 정수 $x$의 개수는?",
     "answer": "5"
   },
   {
@@ -237,7 +237,7 @@
     "difficulty": 2,
     "category": "함수와 그래프",
     "tags": ["유리함수"],
-    "question": "함수 $y= \\cfrac{ 2x-7 } { x-2 }$의 그래프와 직선 $y=3x+k$가 만나지 않도록 하는 정수 $k$의 개수는?",
+    "question": "함수 $y= \\frac{ 2x-7 } { x-2 }$의 그래프와 직선 $y=3x+k$가 만나지 않도록 하는 정수 $k$의 개수는?",
     "answer": "11"
   },
   {
@@ -245,7 +245,7 @@
     "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["유리함수의 그래프"],
-    "question": "유리함수 $y= \\cfrac{ ax+4 } { x-3 }$의 그래프가 직선 $y=x+1$에 대하여 대칭일 때, 상수 $a$의 값은?",
+    "question": "유리함수 $y= \\frac{ ax+4 } { x-3 }$의 그래프가 직선 $y=x+1$에 대하여 대칭일 때, 상수 $a$의 값은?",
     "answer": "4"
   },
   {
@@ -253,7 +253,7 @@
     "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["유리함수의 그래프"],
-    "question": "함수 $y= \\cfrac{ 5 } { x }$의 그래프를 $x$축의 방향으로 $a$만큼, $y$축의 방향으로 2만큼 평행이동하였더니 함수 $y= \\cfrac{ bx+c } { x-3 }$의 그래프와 일치하였을 때, $a$+$b$+$c$의 값은? (단, $a,~b,~c$는 상수이다.)",
+    "question": "함수 $y= \\frac{ 5 } { x }$의 그래프를 $x$축의 방향으로 $a$만큼, $y$축의 방향으로 2만큼 평행이동하였더니 함수 $y= \\frac{ bx+c } { x-3 }$의 그래프와 일치하였을 때, $a$+$b$+$c$의 값은? (단, $a,~b,~c$는 상수이다.)",
     "answer": "4"
   }
 ]
