@@ -28,7 +28,7 @@
     "difficulty": 4,
     "category": "함수와 그래프",
     "tags": ["무리함수"],
-    "question": "두 상수 $a,b$에 대하여 정의역이 {$x \vert -7 \\leq x \\leq 1$}인 함수 $y= \\sqrt { -a-x } +b$의 치역은 {$y \vert 0 \\leq y \\leq 2$}일 때, $a+b$의 값을 구하시오.",
+    "question": "두 상수 $a,b$에 대하여 정의역이 {$x \\vert -7 \\leq x \\leq 1$}인 함수 $y= \\sqrt { -a-x } +b$의 치역은 {$y \\vert 0 \\leq y \\leq 2$}일 때, $a+b$의 값을 구하시오.",
     "choices": null,
     "answer": "-3"
   },
