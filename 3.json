@@ -1,20 +1,5 @@
 [
   {
-    "id": 301,
-    "difficulty": 2,
-    "category": "집합과 명제",
-    "tags": ["명제", "조건"],
-    "question_format": "multiple_choice",
-    "question": "다음 중 명제가 아닌 것은?",
-    "choices": [
-    ],
-    "answer": 4,
-    "explanation": "x의 값이 명확하지 않기 때문에 답은 4번 입니다",
-    "hints": [
-      "명제란 참인지 거짓인지 명확하게 판별할 수 있는 문장이나 식입니다."
-    ]
-  },
-  {
     "id": 302,
     "difficulty": ,
     "category": "함수와 그래프",
