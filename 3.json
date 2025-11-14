@@ -5,7 +5,7 @@
     "category": "함수와 그래프",
     "tags": ["역함수의 그래프"],
     "question_format": "short_answer",
-    "question": "함수 $f(x)=3x+4$의 그래프와 그 역함수 $y=f ^ { -1 } (x)$의 그래프가 점 ($a,\,b$)에서 만날 때, $a+b$의 값을 구하시오.",
+    "question": "함수 $f(x)=3x+4$의 그래프와 그 역함수 $y=f ^ { -1 } (x)$의 그래프가 점 ($a,\\,b$)에서 만날 때, $a+b$의 값을 구하시오.",
     "choices": null,
     "answer": "$a+b$ = -4$",
     "explanation": "교점 $(a, b)$는 $y=x$ 위의 점이므로 $b=a$입니다. 결국, $f(x)$와 $f^{-1}(x)$의 교점은 $f(x)$와 $y=x$의 교점과 같습니다.",
