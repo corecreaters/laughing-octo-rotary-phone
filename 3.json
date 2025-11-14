@@ -1,7 +1,7 @@
 [
   {
     "id": 302,
-    "difficulty": ,
+    "difficulty": 2,
     "category": "함수와 그래프",
     "tags": ["역함수의 그래프"],
     "question_format": "short_answer",
