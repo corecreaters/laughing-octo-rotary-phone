@@ -109,7 +109,7 @@
     "difficulty": 4,
     "category": "집합과 명제",
     "tags": ["절대부등식의 활용"],
-    "question": "$x>0$, $y>0$일 때, $(3x+y) \\left ( \\frac{ 3 } { x } + \\frac{ 4 } { y } \right )$의 최솟값은?",
+    "question": "$x>0$, $y>0$일 때, $(3x+y) \\left( \\frac{ 3 } { x } + \\frac{ 4 } { y } \\right)$의 최솟값은?",
     "answer": "25"
   },
   {
@@ -125,7 +125,7 @@
     "difficulty": 2,
     "category": "함수와 그래프",
     "tags": ["서로 같은 함수"],
-    "question": "정의역이 집합 $X= \\left \\{ -1,~a \right \\}$인 두 함수 $f(x)=3x \\mid x \\mid ,~ g(x)=bx^2 -8$에 대하여 $f=g$일 때, $a+b$의 값은? (단, $a,b$는 상수이고, $a \\neq -1$이다.)",
+    "question": "정의역이 집합 $X = \\left\\{ -1, ~a \\right\\}$인 두 함수 $f(x)=3x \\mid x \\mid ,~ g(x)=bx^2 -8$에 대하여 $f=g$일 때, $a+b$의 값은? (단, $a,b$는 상수이고, $a \\neq -1$이다.)",
     "answer": "-1"
   },
   {
