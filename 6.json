@@ -1,0 +1,32 @@
+[
+  {
+    "id": 601,
+    "difficulty": ,
+    "category": "함수와 그래프",
+    "tags": ["역함수"],
+    "question_format": "short_answer",
+    "question": "함수 $f ( x ) = {\begin{cases} \begin{array}{l} {ax}^{2} + 1 \\, \\, \\, \\, \\, \\, \\, & \\left( x \\geq 0 \right) \\ x + 1 \\, \\, \\, \\, \\, \\, & \\left( x \\lt 0 \right) \\end{array} \\end{cases}}$의 역함수를 $g ( x )$라 하자. $g ( 3 ) = 1$일 때, $g ( - 1 ) + g ( 1 )$의 값은? (단, $a$는 양수이다.)",
+    "choices": null,
+    "answer": "",
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 602,
+    "difficulty": ,
+    "category": "함수와 그래프",
+    "tags": ["역함수의 그래프"],
+    "question_format": "short_answer",
+    "question": "함수 ${f ( x ) = ( x - 2 )}^{2}$ ($x \\geq 2$)의 역함수를 $g ( x )$라 할 때, 두 함수 $y = f ( x )$, $y = g ( x )$의 그래프가 만나는 점의 좌표는 ($a , \\, \\, \\, b$)이다. $a + b$의 값은?",
+    "choices": null,
+    "answer": "",
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
+  }
+]
