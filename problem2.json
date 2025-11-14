@@ -89,14 +89,6 @@
     "answer": "7"
   },
   {
-    "id": 902,
-    "difficulty": 4,
-    "category": "집합과 명제",
-    "tags": ["명제의 역과 대우"],
-    "question": "$x$에 대한 두 조건 $p:x<k$ $q:x ^ { 2 } -4x-5<0$에 대하여 명제 $\\sim p~ \rightarrow ~ \\sim q$가 참이 되도록 하는 실수 $k$의 최솟값을 구하시오.",
-    "answer": "5"
-  },
-  {
     "id": 903,
     "difficulty": 4,
     "category": "집합과 명제",
