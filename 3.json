@@ -7,7 +7,7 @@
     "question_format": "short_answer",
     "question": "함수 $f(x)=3x+4$의 그래프와 그 역함수 $y=f ^ { -1 } (x)$의 그래프가 점 ($a,\,b$)에서 만날 때, $a+b$의 값을 구하시오.",
     "choices": null,
-    "answer": "-4",
+    "answer": "$a+b$ = -4$",
     "explanation": "교점 $(a, b)$는 $y=x$ 위의 점이므로 $b=a$입니다. 결국, $f(x)$와 $f^{-1}(x)$의 교점은 $f(x)$와 $y=x$의 교점과 같습니다.",
     "hints": [
       "함수 $f(x)$와 그 역함수 $f^{-1}(x)$의 그래프는 직선 $y=x$에 대해 대칭입니다. ",
@@ -22,11 +22,16 @@
     "question_format": "short_answer",
     "question": "두 집합 $X= \left \{ { x \vert x\geq a } \right \}$, $Y= \left \{ { y \vert y\geq f(a) } \right \}$에 대하여 $X$에서 $Y$로의 함수 $f(x)=x ^ { 2 } -4x+7$의 역함수가 존재하도록 하는 실수 $a$의 최솟값은?",
     "choices": null,
-    "answer": "",
-    "explanation": "",
+    "answer": "$a = 2$",
+    "explanation": "함수 $f(x) = x^2 - 4x + 7$을 표준형으로 변형하면:
+$$f(x) = (x-2)^2 + 3$$
+이 함수는 꼭짓점이 $(2, 3)$인 아래로 볼록한 포물선입니다.
+역함수가 존재하려면 $f$가 일대일 대응이어야 합니다.
+
+",
     "hints": [
-      "",
-      ""
+      "주어진 이차함수를 완전제곱식으로 변형하여 꼭짓점을 찾아보세요.",
+      "이차함수가 일대일 대응이 되려면 어떤 조건이 필요한지 생각해보세요."
     ]
   }
 ]
