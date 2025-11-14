@@ -1,0 +1,32 @@
+[
+  {
+    "id": 401,
+    "difficulty": 2,
+    "category": "집합과 명제",
+    "tags": ["집합과 명제","집합","집합","부분집합의 개수"],
+    "question_format": "short_answer",
+    "question": "집합 $\mathbf{A}$의 부분집합 중 집합 $\mathbf{B}$와 서로소인 집합의 개수를 구하시오.",
+    "choices": null,
+    "answer": "{-2,-1,1}"
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 402,
+    "difficulty": ,
+    "category": "집합과 명제",
+    "tags": ["집합과 명제","집합","유한집합의 원소의 개수"],
+    "question_format": "short_answer",
+    "question": "어느 반 32명의 학생 중에서 수학 여행 장소로 강원도 일대를 희망하는 학생은 23명, 제주도 일대를 희망하는 학생은 26명, 강원도 일대와 제주도 일대를 모두 희망하는 학생은 19명이었다. 이 때 강원도 일대와 제주도 일대 중 어느 한 곳도 희망하지 않는 학생의 수를 구하시오.",
+    "choices": null,
+    "answer": "2",
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
+  }
+]
