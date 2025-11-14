@@ -1,26 +1,26 @@
 [
   {
     "id": 919,
-    "difficulty": ,
+    "difficulty": 2,
     "category": "함수와 그래프",
     "tags": ["유리함수"],
     "question": "함수 $y= \\cfrac{ 2x-7 } { x-2 }$의 그래프와 직선 $y=3x+k$가 만나지 않도록 하는 정수 $k$의 개수는?",
-    "answer": ""
+    "answer": "11"
   },
   {
     "id": 920,
-    "difficulty": ,
+    "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["유리함수의 그래프"],
     "question": "유리함수 $y= \\cfrac{ ax+4 } { x-3 }$의 그래프가 직선 $y=x+1$에 대하여 대칭일 때, 상수 $a$의 값은?",
-    "answer": ""
+    "answer": "4"
   },
   {
     "id": 921,
-    "difficulty": ,
+    "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["유리함수의 그래프"],
     "question": "함수 $y= \\cfrac{ 5 } { x }$의 그래프를 $x$축의 방향으로 $a$만큼, $y$축의 방향으로 2만큼 평행이동하였더니 함수 $y= \\cfrac{ bx+c } { x-3 }$의 그래프와 일치하였을 때, $a$+$b$+$c$의 값은? (단, $a,~b,~c$는 상수이다.)",
-    "answer": ""
+    "answer": "4"
   }
 ]
