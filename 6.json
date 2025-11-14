@@ -39,22 +39,23 @@
   },
   {
     "id": 603,
-    "difficulty": ,
+    "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["역함수의 성질"],
     "question_format": "short_answer",
     "question": "역함수가 존재하는 두 함수 $f,g$에 대하여 $(g \\circ f ^ { -1 } )(x)=4x-3$일 때, $(f \\circ g ^ { -1 } )(7)$의 값은?",
     "choices": null,
-    "answer": "",
-    "explanation": "",
+    "answer": "2.5",
+    "explanation": "주어진 조건: $(g \\circ f^{-1})(x) = 4x - 3$\n\n핵심 아이디어: $(g \\circ f^{-1})^{-1} = f \\circ g^{-1}$\n\n$h(x) = (g \\circ f^{-1})(x) = 4x - 3$라고 하면,\n$h^{-1}(x)$를 구해야 합니다.\n\n$y = 4x - 3$에서 역함수를 구하면:\n$y + 3 = 4x$\n$x = \\frac{y + 3}{4}$\n\n따라서 $h^{-1}(x) = \\frac{x + 3}{4}$\n\n$(g \\circ f^{-1})^{-1}(x) = (f \\circ g^{-1})(x) = \\frac{x + 3}{4}$\n\n$(f \\circ g^{-1})(7) = \\frac{7 + 3}{4} = \\frac{10}{4} = \\frac{5}{2}$",
     "hints": [
-      "",
-      ""
+      "합성함수 $(g \\circ f^{-1})(x) = 4x - 3$의 역함수는 $(f \\circ g^{-1})(x)$임을 이용해보세요. 즉, $(g \\circ f^{-1})^{-1} = f \\circ g^{-1}$입니다.",
+      "h(x) = 4x - 3$의 역함수를 구해보세요. $y = 4x - 3$에서 $x$에 대해 정리하면 $x = \\frac{y + 3}{4}$이므로, $h^{-1}(x) = \\frac{x + 3}{4}$입니다.",
+       "$(g \\circ f^{-1})(x) = 4x - 3$에서 양변에 역함수를 취하면 $(g \\circ f^{-1})^{-1}(x) = (f \\circ g^{-1})(x) = \\frac{x + 3}{4}$가 됩니다. 따라서 $x = 7$을 대입하면 답을 구할 수 있습니다."
     ]
   },
   {
     "id": 604,
-    "difficulty": ,
+    "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["역함수의 성질"],
     "question_format": "short_answer",
@@ -64,7 +65,7 @@
     "explanation": "",
     "hints": [
       "",
-      ""
+      "",
     ]
   },
   {
