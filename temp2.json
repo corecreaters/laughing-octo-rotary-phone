@@ -1,0 +1,26 @@
+[
+  {
+    "id": 904,
+    "difficulty": ,
+    "category": "집합과 명제",
+    "tags": ["절대부등식의 활용"],
+    "question": "$a \neq 0$인 실수 $a$에 대하여 $\\left( a + \\cfrac{1}{a} \right) \\left( a + \\cfrac{4}{a} \right)$의 최솟값은?",
+    "answer": ""
+  },
+  {
+    "id": 905,
+    "difficulty": ,
+    "category": "집합과 명제",
+    "tags": ["절대부등식의 활용"],
+    "question": "$x>0$, $y>0$일 때, $(3x+y) \\left ( \\cfrac{ 3 } { x } + \\cfrac{ 4 } { y } \right )$의 최솟값은?",
+    "answer": ""
+  },
+  {
+    "id": 906,
+    "difficulty": ,
+    "category": "집합과 명제",
+    "tags": ["충분조건, 필요조건, 필요충분조건"],
+    "question": "두 조건 $p:x>a,~q:-3<x<4$에 대하여 p가 q이기 위한 필요조건이 되도록 하는 실수 a의 최댓값을 구하시오.",
+    "answer": ""
+  }
+]
