@@ -1,26 +1,26 @@
 [
   {
     "id": 916,
-    "difficulty": ,
+    "difficulty": 2,
     "category": "함수와 그래프",
     "tags": ["무리식"],
     "question": "$\\cfrac{ \\sqrt { x+3 } + \\sqrt { 3-x } } { x ^ { 2 } +x-2 }$ 의 값이 실수가 되도록 하는 정수 $x$의 개수는?",
-    "answer": ""
+    "answer": "5"
   },
   {
     "id": 917,
-    "difficulty": ,
+    "difficulty": 4,
     "category": "함수와 그래프",
     "tags": ["무리식"],
     "question": "무리식 $\\sqrt { 2x ^ { 2 } +3x+a }$의 값이 항상 실수가 되도록 하는 정수 $a$의 최솟값은?",
-    "answer": ""
+    "answer": "2"
   },
   {
     "id": 918,
-    "difficulty": ,
+    "difficulty": 4,
     "category": "함수와 그래프",
     "tags": ["무리함수의 그래프"],
     "question": "무리함수 $y= \\sqrt { 3x+1 } -2$의 그래프를 $y$축의 방향으로 -2만큼 평행이동한 후 원점에 대하여 대칭 이동한 그래프의 식을 $y=f(x)$라 하자. 함수 $y=f(x)$의 그래프를 $x$축의 방향으로 $p$만큼 평행이동한 그래프가 원점을 지날 때, 상수 $p$의 값은?",
-    "answer": ""
+    "answer": "5"
   }
 ]
