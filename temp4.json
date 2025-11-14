@@ -17,10 +17,10 @@
   },
   {
     "id": 912,
-    "difficulty": ,
+    "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["일대일 함수와 일대일 대응"],
     "question": "집합 X={$x \u000bert 1 \\leq x \\leq 3$}에서 집합 Y=$\\left \\{ y \u000bert - \\cfrac{ 1 } { 2 } \\leq y \\leq \\cfrac{ 7 } { 2 } \right \\}$로의 함수 $f(x)=ax ^ { 2 } \\,+b$가 일대일대응일 때, 두 상수 $a,b$의 곱 $ab$의 최솟값을 구하시오. ",
-    "answer": ""
+    "answer": "-2"
   }
 ]
