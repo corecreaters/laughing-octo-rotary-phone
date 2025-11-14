@@ -28,5 +28,95 @@
       "",
       ""
     ]
+  },
+  {
+    "id": 603,
+    "difficulty": ,
+    "category": "함수와 그래프",
+    "tags": ["역함수의 성질"],
+    "question_format": "short_answer",
+    "question": "역함수가 존재하는 두 함수 $f,g$에 대하여 $(g \\circ f ^ { -1 } )(x)=4x-3$일 때, $(f \\circ g ^ { -1 } )(7)$의 값은?",
+    "choices": null,
+    "answer": "",
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 604,
+    "difficulty": ,
+    "category": "함수와 그래프",
+    "tags": ["역함수의 성질"],
+    "question_format": "short_answer",
+    "question": "두 함수 $f ( x ) = {\begin{cases} \begin{array}{l} 2 x + 3 & \\left( x \\leq 0 \right) \\ {x}^{2} + 3 \\, \\, \\, \\, \\, \\, & \\left( x \\gt 0 \right) \\end{array} \\end{cases}}$, $g ( x ) = - 3 x + 5$에 대하여 $( ( f \\, \\, {}^{- 1} \\circ {g )}^{- 1} \\, \\circ f ) ( - 1 )$의 값은?",
+    "choices": null,
+    "answer": "",
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 605,
+    "difficulty": ,
+    "category": "함수와 그래프",
+    "tags": ["역함수"],
+    "question_format": "short_answer",
+    "question": "함수 $f(x)= \\cfrac{ 2x } { x+1 }$에 대하여 $f ^ { -1 } (4)$의 값은?",
+    "choices": null,
+    "answer": "",
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 602,
+    "difficulty": ,
+    "category": "함수와 그래프",
+    "tags": ["역함수의 그래프"],
+    "question_format": "short_answer",
+    "question": ,
+    "choices": null,
+    "answer": "",
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 602,
+    "difficulty": ,
+    "category": "함수와 그래프",
+    "tags": ["역함수의 그래프"],
+    "question_format": "short_answer",
+    "question": ,
+    "choices": null,
+    "answer": "",
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 602,
+    "difficulty": ,
+    "category": "함수와 그래프",
+    "tags": ["역함수의 그래프"],
+    "question_format": "short_answer",
+    "question": ,
+    "choices": null,
+    "answer": "",
+    "explanation": "",
+    "hints": [
+      "",
+      ""
+    ]
   }
 ]
