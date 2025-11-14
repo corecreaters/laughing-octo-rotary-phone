@@ -1,26 +1,26 @@
 [
   {
     "id": 907,
-    "difficulty": ,
+    "difficulty": 2,
     "category": "함수와 그래프",
     "tags": ["서로 같은 함수"],
     "question": "정의역이 집합 $X= \\left \\{ -1,~a \right \\}$인 두 함수 $f(x)=3x \u000bert x \u000bert ,~ g(x)=bx^2 -8$에 대하여 $f=g$일 때, $a+b$의 값은? (단, $a,b$는 상수이고, $a \neq -1$이다.)",
-    "answer": ""
+    "answer": "-1"
   },
   {
     "id": 908,
-    "difficulty": ,
+    "difficulty": 4,
     "category": "함수와 그래프",
     "tags": ["서로 같은 함수"],
     "question": "집합 X={-2, 2}를 정의역으로 하는 두 함수 $f(x)=3\u000bert x+1\u000bert +a$, g$(x)=bx+4$에 대하여 $f=$g일 때, $f(a)+b$의 값은? (단, $a,b$는 상수이다.)",
-    "answer": ""
+    "answer": "2.5"
   },
   {
     "id": 909,
-    "difficulty": ,
+    "difficulty": 3,
     "category": "함수와 그래프",
     "tags": ["역함수"],
     "question": "실수 전체의 집합에서 정의된 함수 $f$에 대하여  $f(2x-1)= \\cfrac{ x+a } { 3 }$ , $f(3)= \\cfrac{ 4 } { 3 } ,~f ^ { -1 } (b)=7$일 때, $a+b$의 값은? (단, $a,b$는 상수이다.)",
-    "answer": ""
+    "answer": "4"
   }
 ]
